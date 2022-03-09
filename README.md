@@ -1,6 +1,8 @@
 # Information content vs percentage
 Information content vs percentage
 
+Note that the construction and theory behind the chart of this application can be found [here](https://github.com/Gagniuc/World-smallest-js-chart-v1.0).
+
 Live demo: https://gagniuc.github.io/Information-content-vs-percentage/
 
 <kbd><img src="https://github.com/Gagniuc/Information-content-vs-percentage/blob/main/%5BG%5D%20Information%20content%20vs%20percentage.png" /></kbd>
